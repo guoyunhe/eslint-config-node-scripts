@@ -1,6 +1,6 @@
 {
   "name": "@guoyunhe/eslint-config-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Shareable ESLint configuration for command line tool projects",
   "main": "index.js",
   "files": [

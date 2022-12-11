@@ -1,0 +1,53 @@
+{
+  "name": "@guoyunhe/eslint-config-cli",
+  "version": "1.0.0",
+  "description": "Shareable ESLint configuration for command line tool projects",
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "CHANGELOG.md",
+    "LICENSE",
+    "README.md"
+  ],
+  "scripts": {
+    "test": "eslint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guoyunhe/eslint-config-cli.git"
+  },
+  "keywords": [
+    "rive",
+    "eslint",
+    "eslint-config",
+    "standard",
+    "react",
+    "typescript",
+    "prettier"
+  ],
+  "author": "Guo Yunhe",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/guoyunhe/eslint-config-cli/issues"
+  },
+  "homepage": "https://github.com/guoyunhe/eslint-config-cli#readme",
+  "devDependencies": {
+    "eslint": "^8.29.0",
+    "prettier": "^2.8.1",
+    "typescript": "^4.9.4"
+  },
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.46.0",
+    "@typescript-eslint/parser": "^5.46.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-import-resolver-typescript": "^3.5.2",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-jest": "^27.1.6",
+    "eslint-plugin-prettier": "^4.2.1"
+  },
+  "peerDependencies": {
+    "eslint": "^8.0.0",
+    "prettier": "^2.0.0",
+    "typescript": "^4.0.0"
+  }
+}

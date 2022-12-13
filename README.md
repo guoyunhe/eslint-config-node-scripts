@@ -1,19 +1,5 @@
-# @guoyunhe/eslint-config-cli
+# @guoyunhe/eslint-config-cli-scripts
 
 Shareable ESLint configuration for command line tool projects
 
-## How to use
-
-```
-npm install --save-dev @guoyunhe/eslint-config-cli
-```
-
-Modify `package.json`:
-
-```json
-{
-  "eslint": {
-    "extends": ["@guoyunhe/cli"]
-  }
-}
-```
+Please read [@guoyunhe/create-cli document](https://github.com/guoyunhe/create-cli).

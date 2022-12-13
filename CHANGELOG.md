@@ -1,6 +1,6 @@
 # Changelog
 
-## 1.0.1 - 2022-12-11
+## 1.0.0 - 2022-12-13
 
 - Extend ESLint's recommended configuration
 - Add TypeScript plugin and parser, and extend recommended configuration

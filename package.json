@@ -1,7 +1,7 @@
 {
-  "name": "@guoyunhe/eslint-config-cli-scripts",
+  "name": "@guoyunhe/eslint-config-node-scripts",
   "version": "1.0.0",
-  "description": "Shareable ESLint configuration for command line tool projects",
+  "description": "Shareable ESLint configuration for Node.js projects",
   "main": "index.js",
   "files": [
     "index.js",
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/guoyunhe/eslint-config-cli-scripts.git"
+    "url": "git+https://github.com/guoyunhe/eslint-config-node-scripts.git"
   },
   "keywords": [
     "cli",
@@ -26,9 +26,9 @@
   "author": "Guo Yunhe",
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/guoyunhe/eslint-config-cli-scripts/issues"
+    "url": "https://github.com/guoyunhe/eslint-config-node-scripts/issues"
   },
-  "homepage": "https://github.com/guoyunhe/eslint-config-cli-scripts#readme",
+  "homepage": "https://github.com/guoyunhe/eslint-config-node-scripts#readme",
   "devDependencies": {
     "eslint": "^8.29.0",
     "prettier": "^2.8.1",

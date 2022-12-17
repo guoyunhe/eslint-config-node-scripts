@@ -1,5 +1,3 @@
-# @guoyunhe/eslint-config-cli-scripts
+# @guoyunhe/eslint-config-node-scripts
 
-Shareable ESLint configuration for command line tool projects
-
-Please read [@guoyunhe/create-cli document](https://github.com/guoyunhe/create-cli).
+Shareable ESLint configuration for Node.js projects

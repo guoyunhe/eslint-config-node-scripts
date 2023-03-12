@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.1.0 - 2023-03-12
+
+- Removed `eslint-plugin-import`. TypeScript already does import checking. And this eslint plugin brings more problems than benefits in TypeScript projects.
+
 ## 1.0.0 - 2022-12-13
 
 - Extend ESLint's recommended configuration
